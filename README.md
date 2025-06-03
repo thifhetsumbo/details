@@ -1,1 +1,1 @@
-Basic Python Lessons # details
+Basic Python Lessons 
